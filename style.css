@@ -169,3 +169,67 @@ display: flex;
 justify-content: space-evenly;
 margin-top: 50px;
   }
+
+  /* Subscribe Section Start from Here */
+
+  .Subscribe-section{
+ 
+    background-image: url('./Rectangle\ 9.png');
+width: 1450px;
+height: 450px;
+/* margin: 20px 20px 50px 50jpx;  */
+
+/* background-position: center; */
+/* background-size: cover; */
+/* background-position-x: left; */
+margin-right: 50px;
+
+
+    
+margin: 150px 100px 0px 100px;
+  }
+  .content-part{
+
+    text-align: center;
+    align-items: center;
+        padding-top: 130px;
+        
+  }
+  .s-header{
+
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 15px;
+  }
+
+  .s-description{
+
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+  }
+
+  .input {
+
+    width: 500 px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+  }
+  .sbs-btn{
+    text-align: center;
+    padding-top: 40px;
+    border: none;
+    justify-content: space-evenly;
+  
+    
+  }
