@@ -74,12 +74,22 @@ height: 269px;
     text-align: center;
     align-items: center;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .flower{
     width: 160px;
     padding-top: 50px;
 }
+.flower-2{
+    width: 180px;
+    padding-top: 90px;
+    
+}
+.flower-3{ width: 160px;
+    padding-top: 30px
+
+}
+
 
 .Second-box{
     border-radius: 300px 300px 0px 0px;
@@ -175,14 +185,9 @@ margin-top: 50px;
   .Subscribe-section{
  
     background-image: url('./Rectangle\ 9.png');
-width: 1450px;
-height: 450px;
-/* margin: 20px 20px 50px 50jpx;  */
-
-/* background-position: center; */
-/* background-size: cover; */
-/* background-position-x: left; */
-margin-right: 50px;
+width: 1140px;
+height: 449px;
+margin-right: 20px;
 
 
     
@@ -220,9 +225,9 @@ line-height: 30px;
 
   .input {
 
-    width: 500 px;
+    width: 400px;
     height: 40px;
-    border-radius: 10px;
+    border-radius: 5px;
     border: none;
   }
   .sbs-btn{
@@ -232,4 +237,46 @@ line-height: 30px;
     justify-content: space-evenly;
   
     
+  }
+  .container{
+    margin-top: 50px;
+    text-align: center;
+    background: #111010;
+    color: white;
+    width: 1188px;
+    height: 150px;   
+    align-items: center;
+   
+
+   
+    box-shadow: #111010;
+    padding: 80px;
+    
+  }
+  .footer-header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+font-size: 40px;
+
+  }
+  .container-description {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 15px;
+  }
+  .copy-right{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
   }
