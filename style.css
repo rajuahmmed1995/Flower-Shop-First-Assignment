@@ -137,3 +137,35 @@ line-height: 30px;
 padding: 10px;
 margin-bottom: 10px ;
   }
+
+  /* <!-- Instagram Section Start from Here --> */
+
+  .insta-title{
+
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: 50px;
+margin-bottom: 10px;
+  }
+  .insta-description{
+
+
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;}
+
+
+  .img-part{
+
+display: flex;
+justify-content: space-evenly;
+margin-top: 50px;
+  }
