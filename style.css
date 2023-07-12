@@ -46,3 +46,55 @@ font-size: 20px;
 font-weight: 700;
 align-items: center;
 }
+
+/* First Section Start From Here */
+.title-description{
+    text-align: center;
+}
+.title{
+
+    color: #272727;;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+padding-top:30px;
+margin-top: 20px;
+}
+
+.First-box{
+   
+ border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 232px;
+height: 269px;
+}
+
+.box-container{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.flower{
+    width: 160px;
+    padding-top: 50px;
+}
+
+.Second-box{
+    border-radius: 300px 300px 0px 0px;
+width: 232px;
+height: 269px;
+background: rgba(5, 151, 160, 0.15);
+    
+   }
+.Third-box{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 232px;
+height: 269px;
+}
+
+
+/* Another Part Start form Here */
+
+  
